@@ -1,0 +1,28 @@
+
+sample = {
+    "year": 2010,
+    "age": "13+",
+    "netflix": 1,
+    "hulu": 0,
+    "prime": 0,
+    "disney": 0,
+    "directors": "Christopher Nolan",
+    "genres": "Action,Adventure,Sci-Fi,Thriller",
+    "country": "United States,United Kingdom",
+    "language": "English,Japanese,French",
+    "runtime": 148.0
+}
+
+sampleNotRec = {
+    "year": 2019,
+    "age": "18+",
+    "netflix": 1,
+    "hulu": 0,
+    "prime": 0,
+    "disney": 0,
+    "directors": "David Ayer",
+    "genres": "Action,Drama,War",
+    "country": "United States,China,United Kingdom"
+    "language": "English,German"
+    "runtime": 134.0
+}
