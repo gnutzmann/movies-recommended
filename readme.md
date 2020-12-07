@@ -1,4 +1,4 @@
-## Trabalho para disciplina de **Deep Learning** do curso de **Especialização em Big Data, Data Science e Data Analytics** da Universidade do Vale do Rio dos Sinos - Unisinos - 2020/2**
+## Trabalho para disciplina de **Deep Learning** do curso de **Especialização em Big Data, Data Science e Data Analytics** da Universidade do Vale do Rio dos Sinos - Unisinos - 2020/2
 ### **Autores:**
 *   Diogo Gnutzmann Santos
 *   Emanuel Luz de Abreu
